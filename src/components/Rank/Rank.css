@@ -1,0 +1,9 @@
+.Rank {
+	text-align: center;
+	padding: 2rem;
+	font-weight: bolder; 
+}
+
+.rankNumber {
+	font-size: 2rem;
+}
